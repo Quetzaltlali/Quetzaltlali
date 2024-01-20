@@ -1,6 +1,6 @@
 ### ¡Bienvenidos! 👋
 
-¡Hola! Soy Quetzal, estudiante de Economía y Ciencias de Datos, con interes en aprender mucho y desarrollar mis habilidades tecnicas.🌱
+¡Hola! Soy Quetzal, estudiante de Economía y Ciencias de Datos, con interes en aprender mucho y desarrollar mis habilidades profesionales.🌱
 
 #### Acerca de mí
 - 🌐 Actualmente explorando economía y las ciencias de datos.

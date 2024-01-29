@@ -5,7 +5,7 @@
 #### Acerca de mí
 - 🌐 Actualmente explorando economía y las ciencias de datos.
 - 💻 Aprendiendo y mejorando mis habilidades en Rstudio, Python, Mysql, y otras tecnologías relacionadas.
-- 🎵 Disfruto experimentando con SonicPi para crear música con código.
+- 🎵 Disfruto experimentando con SonicPi para crear música con código y algunos visuales en hydra.
 
 #### Contacto
 ¡No dudes en contactarme para discutir sobre cualquier tema interesante o colaborar en proyectos emocionantes! 📬

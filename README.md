@@ -65,18 +65,6 @@
 </tr>
 </table>
 
-
-### 📌 **Intereses actuales por continuar aprendiendo**
-
-- 📊 Análisis de datos y estadística
-- 📉 Visualización de datos y elaboración de dashboards
-- 💹 Macroeconomía, econometría, finanzas corporativas y bursátiles
-- 📋 Gestión de proyectos con metodologías ágiles y scrum
-- ⚡ Cómputo de alto rendimiento y cómputo cognitivo
-- 🤖 Procesamiento de lenguaje natural e inteligencia artificial
-- 🔐 Criptografía y ciberseguridad
-- 🧠 Lógica e inferencia en ciencias sociales, investigación, políticas públicas y bi
-  
 ### 📊 **Estadísticas de GitHub**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Quetzaltlali&show_icons=true&theme=dracula&title_color=ff69b4&icon_color=ff69b4">
@@ -84,11 +72,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quetzaltlali&layout=compact&theme=dracula&title_color=ff69b4">
-</p>
-
----
-<p align="center" style="color:#ff69b4; font-style:italic; font-weight:bold;">
-¿𝓠𝓾𝓮 𝓽𝓮 𝓰𝓾𝓼𝓽𝓪𝓻𝓲𝓪 𝓱𝓪𝓬𝓮𝓻 𝓱𝓸𝔂 𝓹𝓪𝓻𝓪 𝓻𝓮𝓬𝓸𝓻𝓭𝓪𝓻 𝓶𝓪𝓷𝓪𝓷𝓪? 
 </p>
 
 <p align="center">

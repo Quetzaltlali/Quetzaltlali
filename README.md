@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/BigQuery-ffb6c1?style=for-the-badge&logo=google-bigquery&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-ff69b4?style=for-the-badge&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/Power%20BI-ffb6c1?style=for-the-badge&logo=powerbi&logoColor=white">
-  <img src="https://img.shields.io/badge/QGIS-ff69b4?style=for-the-badge&logo=qgis&logoColor=white">
 </p>
 
 </td>

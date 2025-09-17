@@ -28,13 +28,6 @@
 </a>
 </p>
 
-
-### 📚 **Educación**  
-🎓 **Maestría en Métodos para el Análisis de Políticas Públicas (METPOL)** — CIDE *(2027 - 2029, lugar reservado)*  
-🎓 **Licenciatura en Ciencias de Datos para Negocios** — UNRC *(2021 - 2025)*  
-🎓 **Licenciatura en Economía Financiera** — UNAM, FES Aragón *(2017 - 2022)*  
-
-
 <h3 align="center" style="color:#ff69b4;">🛠️ Habilidades</h3>
 
 <table>

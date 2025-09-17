@@ -1,15 +1,108 @@
-### ¡Bienvenidos! 👋
+<h1 align="center" style="color:#ff69b4;"> ✨¡𝓑𝓲𝓮𝓷𝓿𝓮𝓷𝓲𝓭𝓸𝓼! 💌</h1>
+<p align="center">
+  <img src="https://i.gifer.com/Abs1.gif" width="200">
+</p>
 
-¡Hola! Soy Quetzal, estudiante de Economía y Ciencias de Datos, con interes en aprender mucho y desarrollar mis habilidades profesionales.🌱
-
-#### Acerca de mí
-- 🌐 Actualmente explorando economía y las ciencias de datos.
-- 💻 Aprendiendo y mejorando mis habilidades en Rstudio, Python, Mysql, y otras tecnologías relacionadas.
-- 🎵 Disfruto experimentando con SonicPi para crear música con código y algunos visuales en hydra.
-
-#### Contacto
-¡No dudes en contactarme para discutir sobre cualquier tema interesante o colaborar en proyectos emocionantes! 📬
+---
 
 
-¡Gracias por visitar mi perfil! Espero aprender mucho y crecer en este emocionante viaje. 🚀
+<p align="center" style="color:#ffb6c1; font-size: 18px;">
+✨Soy <b>𝓠𝓾𝓮𝓽𝔃𝓪𝓵𝓽𝓵𝓪𝓵𝓲</b>, una chica curiosa y apasionada por los <b>datos</b>, la <b>economía</b> y los proyectos que buscan mejorar la vida de las personas.  
+</p>
 
+<p align="center">
+<a href="mailto:ale.quetzaltlali@gmail.com">
+<img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  
+<a href="https://www.linkedin.com/in/alejandra-quetzal-gonzalez-pineda">
+<img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/quetzaltlali/">
+<img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://x.com/quetzaltlali">
+<img src="https://img.shields.io/badge/X-ffb6c1?style=for-the-badge&logo=x&logoColor=white">
+</a>
+</p>
+
+
+### 📚 **Educación**  
+🎓 **Maestría en Métodos para el Análisis de Políticas Públicas (METPOL)** — CIDE *(2027 - 2029, lugar reservado)*  
+🎓 **Licenciatura en Ciencias de Datos para Negocios** — UNRC *(2021 - 2025)*  
+🎓 **Licenciatura en Economía Financiera** — UNAM, FES Aragón *(2017 - 2022)*  
+
+
+<h3 align="center" style="color:#ff69b4;">🛠️ Habilidades</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<h4 style="color:#ff69b4;">💻 Técnicas</h4>
+<p>
+  <img src="https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-ffb6c1?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/BigQuery-ffb6c1?style=for-the-badge&logo=google-bigquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Airflow-ff69b4?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-ffb6c1?style=for-the-badge&logo=powerbi&logoColor=white">
+  <img src="https://img.shields.io/badge/QGIS-ff69b4?style=for-the-badge&logo=qgis&logoColor=white">
+</p>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h4 style="color:#ff69b4;">🧠 Blandas</h4>
+<p>
+✨ Iniciativa | ✨ Perseverancia | ✨ Trabajo en equipo 
+✨ Creatividad | ✨ Autodidacta
+</p>
+
+</td>
+</tr>
+</table>
+
+
+### 🐍 Mis contribuciones
+
+<div align="center"> 
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Quetzaltlali/Quetzaltlali/output/github-contribution-grid-snake-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Quetzaltlali/Quetzaltlali/output/github-contribution-grid-snake.svg" /> 
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Quetzaltlali/Quetzaltlali/output/github-contribution-grid-snake.svg" /> 
+  </picture> 
+</div>
+
+<hr>
+
+
+### 📌 **Intereses actuales por continuar aprendiendo**
+
+- 📊 Análisis de datos y estadística
+- 📉 Visualización de datos y elaboración de dashboards
+- 💹 Macroeconomía, econometría, finanzas corporativas y bursátiles
+- 📋 Gestión de proyectos con metodologías ágiles y scrum
+- ⚡ Cómputo de alto rendimiento y cómputo cognitivo
+- 🤖 Procesamiento de lenguaje natural e inteligencia artificial
+- 🔐 Criptografía y ciberseguridad
+- 🧠 Lógica e inferencia en ciencias sociales, investigación, políticas públicas y bi
+  
+### 📊 **Estadísticas de GitHub**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quetzaltlali&show_icons=true&theme=dracula&title_color=ff69b4&icon_color=ff69b4">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quetzaltlali&layout=compact&theme=dracula&title_color=ff69b4">
+</p>
+
+---
+<p align="center" style="color:#ff69b4; font-style:italic; font-weight:bold;">
+¿𝓠𝓾𝓮 𝓽𝓮 𝓰𝓾𝓼𝓽𝓪𝓻𝓲𝓪 𝓱𝓪𝓬𝓮𝓻 𝓱𝓸𝔂 𝓹𝓪𝓻𝓪 𝓻𝓮𝓬𝓸𝓻𝓭𝓪𝓻 𝓶𝓪𝓷𝓪𝓷𝓪? 
+</p>
+
+<p align="center">
+🌱</p>
